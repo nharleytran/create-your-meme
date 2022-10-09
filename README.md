@@ -5,9 +5,9 @@ This repository contains a homework submission.
 
 ```text
 JHED=
-GITHUB_USERNAME=
-GITHUB_REPO=
-GITHUB_PAGE=
+GITHUB_USERNAME= nharleytran
+GITHUB_REPO= https://github.com/cs280fa22-homework/hw3-meme-gen-nharleytran.git
+GITHUB_PAGE= https://cs280fa22-homework.github.io/hw3-meme-gen-nharleytran/
 ```
 
 Please refer to the description of Homework-3, Full-Stack JavaScript (Fall 2022) for details.
