@@ -5,7 +5,6 @@ import Output from "../components/Output";
 import { getMemes } from "../api";
 import { useState } from 'react';
 
-
 function App() {
   const [img, setImg] = useState("");
   const [topInput, setTopInput] = useState("");
