@@ -19,7 +19,6 @@ function BotSearch (props) {
   }
   
   export default BotSearch;
-
   BotSearch.propTypes = {
     botquery: PropTypes.string,
 }
